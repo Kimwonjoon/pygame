@@ -1,2 +1,0 @@
-import byme
-byme.sign()
